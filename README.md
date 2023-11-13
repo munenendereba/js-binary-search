@@ -1,12 +1,12 @@
-# Bubble Sort in JavaScript
+# Binary Search in JavaScript
 
 ## Problem
 
-Implement a function that sorts an array of numbers using the "bubble sort" algorithm.
+Implement binary search in JavaScript.
 
 ## Running
 
-Run using the following command: `node .\bubblesort.js`
+Run using the following command: `node .\index.js`
 
 ## Authors
 
